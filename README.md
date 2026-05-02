@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kenneth Muriungi
 - 👀 I’m interested in Flutter App Development
-- 🌱 I’m currently learning Cpomputer Science at Embu University
+- 🌱 Computer Science graduate at Embu University
 - 💞️ I’m looking to collaborate on any given project and ready to work to my maximum
 - 📫 How to reach me +254768944465 on WhatsApp
 - 😄 Pronouns: ...
